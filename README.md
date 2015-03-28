@@ -1,6 +1,6 @@
 #keka
 
-CTRM & ETRM
+Commodity & Energy Trading Analytics
 
 ## How to run?
 
